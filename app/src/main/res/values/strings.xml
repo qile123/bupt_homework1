@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="image">百度</string>
+    <string name="test">红色字体</string>
+    <string name="LabelC">英尺</string>
+    <string name="LabelH">米</string>
+    <string name="hint1">输入数值</string>
+    <string name="transform">转换</string>
+</resources>
+
