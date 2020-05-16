@@ -19,8 +19,8 @@ ImageView、CheckBox、TextView、EditText、Button
 
 ### 四、程序运行结果
 
-![image-20200515231250126](C:\Users\奇乐\AppData\Roaming\Typora\typora-user-images\image-20200515231250126.png)
+![add image](https://github.com/qile123/bupt_homework1/raw/master/image/image-20200515231250126.png)
 
 日志输出：
 
-![image-20200515231445906](C:\Users\奇乐\AppData\Roaming\Typora\typora-user-images\image-20200515231445906.png)
+![image-20200515231445906](https://github.com/qile123/bupt_homework1/raw/master/image/image-20200515231445906.png)
